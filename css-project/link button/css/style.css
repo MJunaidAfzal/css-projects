@@ -1,0 +1,21 @@
+a:link,:visited{
+    border: red;
+    background-color:red;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: yellow;
+    background-color: yellow;
+}
+a:active{
+    color: aqua;
+    background-color: aqua;
+}
+p{
+    display: inline-block;
+}
+body{
+    background-color: skyblue;
+}

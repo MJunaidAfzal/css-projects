@@ -1,0 +1,12 @@
+span{
+    display: block;
+}
+.li{
+    list-style-type: none;
+}
+.h1{
+    display: none;
+}
+.visibility{
+    visibility: hidden;
+}

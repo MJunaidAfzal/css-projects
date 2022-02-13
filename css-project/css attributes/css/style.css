@@ -1,0 +1,12 @@
+[class^="top"]{
+    background-color: skyblue;
+}
+[class$=text]{
+    background-color: gold;
+}
+input[type=text]{
+    width: 150px;
+    margin-bottom: 10px;
+    display: block;
+    background-color: lightgreen;
+}

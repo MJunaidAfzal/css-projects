@@ -1,0 +1,16 @@
+.div1{
+    border: 2px solid blue;
+    width: 180px;
+    margin: 5px;
+    float: left;
+}
+.div2{
+    text-align: center;
+    padding: 15px;
+}
+.div1 img{
+    width: 100%;
+}
+.div1:hover{
+    border: 20px groove red;
+}

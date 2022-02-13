@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: greenyellow;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+li a{
+    display: block;
+    color: blue;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+li a.li1{
+    background-color: blueviolet;
+    color: palegoldenrod;
+}
+li a:hover:not(.a){
+    background-color:skyblue;
+    color: red;
+}

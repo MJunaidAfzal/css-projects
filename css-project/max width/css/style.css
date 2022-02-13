@@ -1,0 +1,8 @@
+.maxwidth{
+    border: red 3px solid;
+    max-width: 800px;
+}
+.width{
+    border: solid 3px green;
+    width: 800px;
+}

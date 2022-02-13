@@ -1,0 +1,30 @@
+ul{
+    width: 100%;
+    height: 50px;
+    margin: 0px;
+    padding: 0px;
+    background-color: gold;
+    list-style: none;
+    overflow: auto hidden;
+}
+li{
+    text-align: center;
+    float: left;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    color: black;
+    font-family: sans-serif;
+}
+li a{
+    text-decoration: none;
+    padding: 20px;
+}
+li a:hover{
+    padding: 20px;
+    background-color: aqua;
+}
+.a{
+    padding: 20px;
+    background-color: red;
+}

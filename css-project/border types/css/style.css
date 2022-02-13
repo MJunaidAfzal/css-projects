@@ -1,0 +1,33 @@
+.dotted{
+    border: 5px red dotted;
+}
+.dashed{
+    border: 5px blue dashed;
+}
+.solid{
+    border: 5px gold solid;
+}
+.double{
+    border: 5px gray double;
+}
+.groove{
+    border: 5px aqua groove;
+}
+.ridge{
+    border: 5px green ridge;
+}
+.inset{
+    border: 5px purple inset;
+}
+.outset{
+    border: 5px orange outset;
+}
+.noborder{
+    border: 5px pink noborder;
+}
+.hidden{
+    border: 5px springgreen hidden;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}

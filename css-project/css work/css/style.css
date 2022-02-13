@@ -1,0 +1,30 @@
+.direction{
+    direction: rtl;
+}
+h1{
+    text-decoration: underline;
+    color: blue;
+}
+h2{
+    text-decoration: overline;
+    color: gold;
+}
+h3{
+    text-decoration: line-through;
+    color: green;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.capatilize{
+    text-transform: capitalize;
+}
+h4{
+    letter-spacing: 3px;
+}
+h5{
+    letter-spacing: -3px;
+}
